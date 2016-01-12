@@ -5,7 +5,7 @@
 // Hash algorithm implementation for Times33
 package times33
 
-func Hash(s string) int64 {
+func Key(s string) int64 {
 	var hash int64  = 5381
 
 	for _, c := range s {

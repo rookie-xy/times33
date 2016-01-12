@@ -1,2 +1,2 @@
 # times33
-hash
+Hash algorithm implementation for Times33
